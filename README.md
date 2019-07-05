@@ -9,4 +9,14 @@ In this jupyter notebook, as well as all of our following notebooks, we will use
 
 We strongly recommend that you purchase "Learn Python 3 the Hard Way" by Zed A. Shaw and "Python Crash Course" by Eric Matthes. Both of these are available at Amazon.com.
 
+
+# Setting up your Anaconda Environment
+For the lessons ahead, we will use Jupyter Notebooks exclusively. And the easiest way to set up a Jupyter Notebook on your personal laptop, go to https://www.anaconda.com/distribution/, download the version that is appropriate for your machine (Windows, Mac, or Linux), and install it according to the directions on the Anaconda website. 
+
+The install file for Anaconda is rather large, so we recommend that you download it while on WiFi and that you give yourself at least 30 minutes for the whole process. It will likely not take nearly that long, but we don't know your connection speed.
+
+If you run into problems, don't worry. We will spend the first part of our first meeting helping you set up the environment. 
+
+
+
 submitted by Ben P. Meredith, Ed.D. (4 July 2019)
