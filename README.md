@@ -1,4 +1,4 @@
-# Lesson_001_Hello_World
+# 001_Hello_World
 This is the first Python program and exercise. In this lesson, we write the code to have Python reply to us with "Hello World!". 
 
 In this jupyter notebook lesson and exercise, we introduce you to the PRINT function in Python. This is your first command and first coding syntax that you learn. It is also one of the most often used commands that you will use in your coding career. While jupyter notebooks does allow some outputting of data without the PRINT command, for more than 99% of your output you will need to use the PRINT command to see the results of your work.
